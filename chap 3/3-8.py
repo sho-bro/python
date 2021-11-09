@@ -1,0 +1,13 @@
+a = ['america', 'japan', 'italy', 'paris', 'brazil']
+print(a)
+sorted(a)
+print(a)
+print(sorted(a)[::-1])
+a.reverse()
+print(a)
+a.reverse()
+print(a)
+a.sort()
+print(a)
+a.sort(reverse = True)
+print(a)
