@@ -25,3 +25,6 @@ a.pop(0)
 print(a)
 print(a[0] + ' you are invited')
 print(a[1] + ' you are invited')
+del a[0]
+del a[0]
+print(a)
